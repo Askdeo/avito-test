@@ -1,0 +1,10 @@
+.product-container{
+    display: inline-block;
+    margin: 0.6rem;
+    padding: 0.6rem;
+    width: 30%;
+}
+.seller {
+    display: inline-block;
+    
+}
